@@ -292,6 +292,9 @@ footer h5 {
   .cloud {
     height: 80rem;
   }
+  input {
+    width: 50%;
+  }
 }
 
 /* animations */
